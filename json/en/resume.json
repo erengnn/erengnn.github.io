@@ -3,25 +3,20 @@
     {
         "name": "Eren Gönen",
         "label": "Mobie Application Developer",
-        "picture": "https://raw.githubusercontent.com/akarsh/akarsh.github.io/master/images/standard_profile.jpg",
+        "picture": "https://raw.githubusercontent.com/erengnn/erengnn.github.io/master/images/SelfieErenCv.jpg",
         "email": "erengn53@gmail.com",
         "phone": "+905347777341",
         "website": "https://github.com/erengnn",
         "summary": "I am a highly organized, multi-tasking, problem solving, and goal-oriented person with attention to details, strong focusing, communication, and negotiation skills. ",
         "location":
         {
-            "address": "Löwenberger strasse 2, 6. O.G., Apartment - 13",
-            "postalCode": "10315",
-            "city": "Berlin",
-            "countryCode": "DE",
-            "region": "Germany"
+            "address": "Kalıcı Konutlar ada apartmanı 8",
+            "postalCode": "14300",
+            "city": "Bolu",
+            "countryCode": "TR",
+            "region": "Turkey"
         },
         "profiles": [
-        {
-            "network": "Twitter",
-            "username": "akarshseggemu",
-            "url": "https://twitter.com/akarshseggemu"
-        },
         {
             "network": "LinkedIn",
             "username": "akarshseggemu",
@@ -49,10 +44,10 @@
         }],
         "info":
         {
-            "nationality": "Indian",
+            "nationality": "Turk",
             "workPermit": "Yes",
-            "dateOfBirth": "1991-08-23",
-            "placeOfBirth": "Perka Kondaram"
+            "dateOfBirth": "1999-11-01",
+            "placeOfBirth": "Bolu"
         }
     },
     "work": [
