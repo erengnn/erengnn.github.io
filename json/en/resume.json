@@ -19,28 +19,13 @@
         "profiles": [
         {
             "network": "LinkedIn",
-            "username": "akarshseggemu",
-            "url": "https://www.linkedin.com/in/akarshseggemu"
+            "username": "erengnn",
+            "url": "https://www.linkedin.com/in/erengnn/"
         },
         {
             "network": "GitHub",
-            "username": "akarsh",
-            "url": "https://github.com/akarsh"
-        },
-        {
-            "network": "stackoverflow",
-            "username": "akarsh",
-            "url": "https://stackoverflow.com/cv/akarsh"
-        },
-        {
-            "network": "Duolingo",
-            "username": "akarshseggemu",
-            "url": "https://www.duolingo.com/akarshseggemu"
-        },
-        {
-            "network": "Xing",
-            "username": "akarsh.seggemu",
-            "url": "https://www.xing.com/profile/Akarsh_Seggemu"
+            "username": "erengnn",
+            "url": "https://github.com/erengnn"
         }],
         "info":
         {
