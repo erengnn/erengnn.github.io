@@ -30,7 +30,7 @@
         "info":
         {
             "nationality": "Turk",
-            "workPermit": "Yes",
+            "workPermit": "Var",
             "dateOfBirth": "1999-11-01",
             "placeOfBirth": "Bolu"
         }
@@ -83,7 +83,7 @@
     }],
     "skills": [
     {
-        "name": "Programming and Scripting languages",
+        "name": "Programlama Becerileri",
         "level": "",
         "keywords": [
             "HTML",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "name": "Data",
+        "name": "Veritabanı",
         "level": "",
         "keywords": [
             "SQL"
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "name": "Project management methodology",
+        "name": "Proje Yönetim Metotları",
         "level": "",
         "keywords": [
             "Scrum",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "name": "Version Control System",
+        "name": "Versiyon Kontrol Sistemleri",
         "level": "",
         "keywords": [
             "Git",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "name": "IDE",
+        "name": "Bütünleşik Geliştirme Ortamı",
         "level": "",
         "keywords": [
             "Pycharm",
@@ -131,14 +131,14 @@
         ]
     },
     {
-        "name": "Operating System",
+        "name": "İşletim Sistemi",
         "level": "",
         "keywords": [
             "Windows"
         ]
     },
     {
-        "name": "Software / Applications",
+        "name": "Yazılım / Uygulamalar",
         "level": "",
         "keywords": [
             "Slack",
