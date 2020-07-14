@@ -1,0 +1,179 @@
+{
+    "basics":
+    {
+        "name": "Eren Gönen",
+        "label": "Mobie Application Developer",
+        "picture": "https://raw.githubusercontent.com/erengnn/erengnn.github.io/master/images/profile.jpg",
+        "email": "erengn53@gmail.com",
+        "phone": "+905347777341",
+        "website": "https://github.com/erengnn",
+        "summary": "Ayrıntılara, odaklanmaya, iletişim ve müzakere becerilerine önem veren, düzenli, problem çözme ve hedef odaklı biriyim.",
+        "location":
+        {
+            "address": "Kılıçarslan mahallesi ada apartmanı 24",
+            "postalCode": "14300",
+            "city": "Bolu",
+            "countryCode": "TR",
+            "region": "Turkey"
+        },
+        "profiles": [
+        {
+            "network": "LinkedIn",
+            "username": "erengnn",
+            "url": "https://www.linkedin.com/in/erengnn/"
+        },
+        {
+            "network": "GitHub",
+            "username": "erengnn",
+            "url": "https://github.com/erengnn"
+        }],
+        "info":
+        {
+            "nationality": "Turk",
+            "workPermit": "Yes",
+            "dateOfBirth": "1999-11-01",
+            "placeOfBirth": "Bolu"
+        }
+    },
+    "work": [
+    {
+        "company": "Mir Education and Software Systems",
+        "position": "Junior Software Engineer",
+        "website": "http://www.miregitim.com.tr/",
+        "startDate": "2019-08-01",
+        "endDate": "2019-10-01",
+        "summary": "",
+        "highlights": ["2 ay boyunca tek başıma bir proje üstlenerek android programlama temelleri ve tasarımı hakkında çok şey öğrendim. Android Speech recognizer API hakkında neredeyse uzman seviyesine geldim. "
+        ]
+    }],
+    "volunteer": [
+    {
+        "organization": "Kızılay",
+        "position": "Yeni bağışçılar bulmaktan ve kan bağışının önemi konusunda artan farkındalıktan sorumluydum.",
+        "website": "https://www.kizilay.org.tr/",
+        "startDate": "2018-09-01",
+        "endDate": "2019-02-03",
+        "summary": "",
+        "highlights": []
+    }],
+    "education": [
+    {
+        "institution": "9 Eylul University",
+        "area": "Computer Programming",
+        "studyType": "",
+        "startDate": "2018-09-01",
+        "endDate": "Present",
+        "gpa": "",
+        "courses": []
+    },
+    {
+        "institution": "Emlakbank Suleyman Demirel High School",
+        "area": "TM",
+        "studyType": "",
+        "startDate": "2013-09-01",
+        "endDate": "2017-09-01",
+        "gpa": "",
+        "courses": []
+    }],
+    "awards": [
+   ],
+    "publications": [
+    {
+      
+    }],
+    "skills": [
+    {
+        "name": "Programming and Scripting languages",
+        "level": "",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Java",
+            "JavaScript",
+            "Python",
+            "Django",
+            "Solidity"
+        ]
+    },
+    {
+        "name": "Data",
+        "level": "",
+        "keywords": [
+            "SQL"
+            
+        ]
+    },
+    {
+        "name": "Project management methodology",
+        "level": "",
+        "keywords": [
+            "Scrum",
+            "Agile"
+        ]
+    },
+    {
+        "name": "Version Control System",
+        "level": "",
+        "keywords": [
+            "Git",
+            "GitHub",
+            "GitLab"
+        ]
+    },
+    {
+        "name": "IDE",
+        "level": "",
+        "keywords": [
+            "Pycharm",
+            "Android Studio",
+            "Remix"
+        
+        ]
+    },
+    {
+        "name": "Operating System",
+        "level": "",
+        "keywords": [
+            "Windows"
+        ]
+    },
+    {
+        "name": "Software / Applications",
+        "level": "",
+        "keywords": [
+            "Slack",
+            "MS Office",
+            "Adobe Photoshop",
+            "Adobe XD",
+            "Adobe Illustrator",
+            "ATOM"
+          
+        ]
+    }],
+    "languages": [
+    {
+        "language": "English",
+        "fluency": "Intermediate"
+    },
+    {
+        "language": "Turkish",
+        "fluency": "Native proficiency"
+    }],
+    "interests": [
+    {
+        "name": "Dance",
+        "keywords": [
+          "Hip-Hop"
+        ]
+    },
+    {
+        "name": "Basketball",
+        "keywords": []
+    },
+    {
+        "name": "Football",
+        "keywords": []
+    }],
+    "references": [
+    ]
+}
