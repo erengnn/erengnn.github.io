@@ -37,8 +37,8 @@
     },
     "work": [
     {
-        "company": "Mir Education and Software Systems",
-        "position": "Junior Software Engineer",
+        "company": "Mir Eğitim ve Yazılım Sistemleri",
+        "position": "Genç Yazılım Mühendisi",
         "website": "http://www.miregitim.com.tr/",
         "startDate": "2019-08-01",
         "endDate": "2019-10-01",
@@ -58,7 +58,7 @@
     }],
     "education": [
     {
-        "institution": "9 Eylul University",
+        "institution": "9 Eylül Üniversitesi",
         "area": "Computer Programming",
         "studyType": "",
         "startDate": "2018-09-01",
@@ -67,7 +67,7 @@
         "courses": []
     },
     {
-        "institution": "Emlakbank Suleyman Demirel High School",
+        "institution": "Emlakbank Süleyman Demirel Anadolu Lisesi",
         "area": "TM",
         "studyType": "",
         "startDate": "2013-09-01",
@@ -153,25 +153,25 @@
     "languages": [
     {
         "language": "English",
-        "fluency": "Intermediate"
+        "fluency": "Orta Düzey"
     },
     {
         "language": "Turkish",
-        "fluency": "Native proficiency"
+        "fluency": "Anadil"
     }],
     "interests": [
     {
-        "name": "Dance",
+        "name": "Dans",
         "keywords": [
           "Hip-Hop"
         ]
     },
     {
-        "name": "Basketball",
+        "name": "Basketbol",
         "keywords": []
     },
     {
-        "name": "Football",
+        "name": "Futbol",
         "keywords": []
     }],
     "references": [
