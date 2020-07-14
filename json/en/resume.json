@@ -167,15 +167,25 @@
     {
         "name": "Dance",
         "keywords": [
-          "Hip-Hop"
+          "Swing",
+          "Lindy Hop",
+          "Lindy Charleston"
         ]
     },
     {
-        "name": "Basketball",
+        "name": "Long Boarding",
         "keywords": []
     },
     {
         "name": "Football",
+        "keywords": []
+    },
+    {
+        "name": "Rowing",
+        "keywords": []
+    },
+    {
+        "name": "Jogging",
         "keywords": []
     }],
     "references": [
