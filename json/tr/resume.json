@@ -29,7 +29,7 @@
         }],
         "info":
         {
-            "nationality": "Turk",
+            "nationality": "Türk",
             "workPermit": "Var",
             "dateOfBirth": "1999-11-01",
             "placeOfBirth": "Bolu"
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "name": "Proje Yönetim Metotları",
+        "name": "Proje Yönetim Metodları",
         "level": "",
         "keywords": [
             "Scrum",
@@ -152,11 +152,11 @@
     }],
     "languages": [
     {
-        "language": "English",
+        "language": "İngilizce",
         "fluency": "Orta Düzey"
     },
     {
-        "language": "Turkish",
+        "language": "Türkçe",
         "fluency": "Anadil"
     }],
     "interests": [
