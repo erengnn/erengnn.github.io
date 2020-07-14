@@ -163,29 +163,19 @@
         "language": "Turkish",
         "fluency": "Native proficiency"
     }],
-    "interests": [
+   "interests": [
     {
         "name": "Dance",
         "keywords": [
-          "Swing",
-          "Lindy Hop",
-          "Lindy Charleston"
+          "Hip-Hop"
         ]
     },
     {
-        "name": "Long Boarding",
+        "name": "Basketball",
         "keywords": []
     },
     {
         "name": "Football",
-        "keywords": []
-    },
-    {
-        "name": "Rowing",
-        "keywords": []
-    },
-    {
-        "name": "Jogging",
         "keywords": []
     }],
     "references": [
