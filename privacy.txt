@@ -1,0 +1,6 @@
+Privacy Policy
+Note: This app requires the use of contacts and microphone on your device as well as
+reading your device&#39;s phone state. We therefore require permission from you to access the
+microphone of your device. We do not use the collect any information about you or your use
+of the application. We use an Android Advertising Id to display ads to you. We do not collect
+any data from you. We care very much about your privacy.
